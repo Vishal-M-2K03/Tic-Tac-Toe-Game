@@ -1,7 +1,5 @@
 # Tic-Tac-Toe-Game
 
-# Tic-Tac-Toe Game
-
 ## Overview
 This is a simple implementation of the classic Tic-Tac-Toe game using Java and Swing for the graphical user interface. The game allows two players to take turns making moves on a 3x3 grid, with the objective of getting three of their symbols in a row (horizontally, vertically, or diagonally). The game declares a winner when one of the players achieves this objective.
 
